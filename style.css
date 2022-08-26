@@ -1,0 +1,297 @@
+
+.header{
+    
+    background-color: black;
+    width: 100%;
+    height: 10%;
+    display: flex;
+}
+.welcome{
+    padding-left: 35%;
+    color: orangered;
+}
+.tous{
+    width: 100%;
+    padding-left: 10%;
+    margin-top: 5px;
+    background-color: black;
+    justify-content: space-between;
+    display: flex
+}
+.a{
+    color: white;
+    text-decoration: none;
+}
+.box{
+    justify-content: space-between;
+    display: flex;
+    margin-right: 20%;
+    width: 50%;
+}
+h2{
+    color: white;
+    
+}
+a{
+    color: white;
+}
+.nouveaux{
+    color: orangered;
+}
+.pc-gamer-tunisie-1{
+    width: 20%;
+}
+.img-1{
+    text-align: center;
+    width: 95%;
+
+}
+
+.img-2{
+    margin-left: 10%;
+    width: 75%;
+    
+}
+.img-3{
+    width: 75%;
+
+   
+}
+.img-4{
+    width: 75%;
+   
+}
+.img-5{
+    width:75%;
+    
+}
+.img-6{
+    width: 75%;
+    
+}
+.img-7{
+    margin-left: 20%;
+    width: 50%;
+   
+}
+.div{
+    width: 80%;
+    display: flex;
+    margin-left:10%;
+}
+.div-2{
+    width: 60%;
+}
+.div-3{
+    width: 50%;
+
+}
+.bigdiv{
+    display: flex;
+}
+
+
+.f{
+    color: orangered;
+    width: 80%;
+    text-align: center;
+}
+.span{
+    color: blue;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    width: 40%;
+    margin-bottom: 10px;
+}
+.groupe{
+    width: 100%;
+}
+.bigimg-1{
+
+    height: 40%;
+    width: 30%;
+}
+.unité-central{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7%;
+}
+.title{
+    color: orangered
+}
+.paraghraphe{
+    width: 70%;
+}
+.bigimg-1:hover{
+    cursor: pointer;
+}
+.bigimg-2{
+    margin-bottom: 20px;
+    height: 20%;
+    width:20%;
+}
+.unité-central-2{
+    display: flex;
+    justify-content: space-between;
+}
+.title-2{
+    color: orangered
+
+}
+.paraghraphe-2{
+    margin-left: 8%;
+    margin-top: 4%;
+}
+.big-1{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    
+}
+.big-2{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    margin-top: 7%;
+}
+.big-3{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    margin-top: 7%;
+}
+.big-4{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+}
+.big-5{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    margin-top: 7%;
+}
+.big-6{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    margin-top: 7%;
+}
+.big-7{
+    width: 40%;
+    background-color: white;
+    box-shadow: 0 4px 10px #00000014;
+    border-radius: 0;
+    overflow: hidden;
+    margin-top: 7%;
+}
+.title-3{
+    color: orangered;
+    margin-left: 10%;
+}
+.paraghraphe-3{
+    width: 70%;
+    color: black;
+    margin-left: 10%;
+}
+.button-3{
+    margin-left: 10%;
+}
+.buttonshop{
+    width: 35%;
+}
+
+  
+  .fa {
+    font-size: 30px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+.fa:hover {
+    color: darkblue;
+  }
+  body.dark{
+
+    background-color: #212121; /* When dark mode is on, set background color to black */
+  
+    color: #e8e8e8; /* When dark mode is on, set text color to white */
+  
+  }
+  body{
+
+    transition: .182s;
+  
+  }
+.message{
+    color: white;
+    background-color: orangered;
+    height: 15%;
+    padding-left: 20%;
+  }
+.yes{
+    margin-top: 20%;
+    width: 10%;
+}
+.imgalt{
+    width: 30%;
+    margin-bottom: 20%;
+    margin-right: 60%;
+
+}
+  #confirm {
+    display: none;
+    background-color: #F3F5F6;
+    color: #000000;
+    border: 1px solid #aaa;
+    position: fixed;
+    width: 500px;
+    height: 300px;
+    left: 40%;
+    top: 40%;
+    box-sizing: border-box;
+    text-align: center;
+ }
+ #confirm button {
+    background-color: #FFFFFF;
+    display: inline-block;
+    border-radius: 12px;
+    border: 4px solid #aaa;
+    padding: 5px;
+    text-align: center;
+    width: 60px;
+    cursor: pointer;
+ }
+ #confirm .message {
+    text-align: left;
+ }
+ 
+ .ClickMe{
+    width: 35%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
